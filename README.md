@@ -3,11 +3,11 @@
 ## Welcome to my little GitHub, let me introduce myself...
 
 I love programming! :heart:
-I like to stay all day on my computer, making anything that has relation with computers or something like that :computer: :heart:
+I like to stay all day on my computer, making anything that has relation with computers or alike :computer: :heart:
 
 ## Working on...
 
-> Im actually working my fullstack skills with Javascript; Node.js at the backend and React.js for frontend. Learning at Udemy...
+> Im actually working my fullstack skills with Javascript; Node.js at the backend and React.js at frontend. Learning at Udemy...
 
 ## Skills
 - Java
